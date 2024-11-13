@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "title": "T-shirt Homme",
+        "prix": 19.99,
+        "description": "T-shirt en coton doux, disponible en plusieurs couleurs.",
+        "category": "T-shirts",
+        "image": "https://m.media-amazon.com/images/I/513U83g30sL._AC_SX679_.jpg"
+    },
+    {
+        "id": 2,
+        "title": "Jean Slim Femme",
+        "prix": 49.99,
+        "description": "Jean slim coupe moderne, taille haute, confort optimal.",
+        "category": "Pantalons",
+        "image": "https://m.media-amazon.com/images/I/81pitfwa9+L._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+        "id": 3,
+        "title": "Robe Été Fleurie",
+        "prix": 34.99,
+        "description": "Robe légère et fluide, idéale pour les journées ensoleillées.",
+        "category": "Robes",
+        "image": "https://m.media-amazon.com/images/I/719FRGXSl8L._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+        "id": 4,
+        "title": "Veste en Cuir",
+        "prix": 129.99,
+        "description": "Veste en cuir véritable, coupe élégante, parfait pour l'automne.",
+        "category": "Vestes",
+        "image": "https://m.media-amazon.com/images/I/61As7v1aHHS._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+        "id": 5,
+        "title": "Sweatshirt à Capuche",
+        "prix": 39.99,
+        "description": "Sweatshirt confortable avec capuche, parfait pour les journées fraîches.",
+        "category": "Sweatshirts",
+        "image": "https://m.media-amazon.com/images/I/61I8kNqgmCL._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+        "id": 6,
+        "title": "Short de Sport",
+        "prix": 24.99,
+        "description": "Short de sport léger, idéal pour la course ou les activités en plein air.",
+        "category": "Shorts",
+        "image": "https://m.media-amazon.com/images/I/51O7ojuHMSL._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+        "id": 7,
+        "title": "Manteau d'Hiver",
+        "prix": 199.99,
+        "description": "Manteau chaud en laine, avec doublure en fourrure synthétique.",
+        "category": "Manteaux",
+        "image": "https://m.media-amazon.com/images/I/51Np49YGxaL._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+        "id": 8,
+        "title": "Baskets de Course",
+        "prix": 69.99,
+        "description": "Baskets légères et respirantes, idéales pour le running.",
+        "category": "Chaussures",
+        "image": "https://m.media-amazon.com/images/I/61BpGB-hoZL._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+        "id": 9,
+        "title": "Chemise à Carreaux",
+        "prix": 39.99,
+        "description": "Chemise à carreaux en flanelle, parfaite pour les journées décontractées.",
+        "category": "Chemises",
+        "image": "https://m.media-amazon.com/images/I/81R8Ndc-zeL._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+        "id": 10,
+        "title": "Pull en Laine",
+        "prix": 79.99,
+        "description": "Pull chaud en laine mérinos, idéal pour l'hiver.",
+        "category": "Pulls",
+        "image": "https://m.media-amazon.com/images/I/71N5xoshDjL._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+        "id": 11,
+        "title": "Jupe Plissée",
+        "prix": 49.99,
+        "description": "Jupe élégante et légère, idéale pour les occasions formelles.",
+        "category": "Jupes",
+        "image": "https://m.media-amazon.com/images/I/21rj3bGBIuL._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+        "id": 12,
+        "title": "Baskets Mode Femme",
+        "prix": 79.99,
+        "description": "Baskets tendance avec une semelle épaisse et un design moderne.",
+        "category": "Chaussures",
+        "image": "https://m.media-amazon.com/images/I/613TwiW+BlL._AC_SY695_.jpg"
+    },
+    {
+        "id": 13,
+        "title": "Blouson Bomber",
+        "prix": 89.99,
+        "description": "Blouson bomber léger, coupe moderne et confortable.",
+        "category": "Vestes",
+        "image": "https://m.media-amazon.com/images/I/61H1E3ogK5L._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+        "id": 14,
+        "title": "Maillot de Bain Homme",
+        "prix": 29.99,
+        "description": "Maillot de bain en tissu résistant, idéal pour la plage ou la piscine.",
+        "category": "Maillots de Bain",
+        "image": "https://m.media-amazon.com/images/I/513Hs1ijktL._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+        "id": 15,
+        "title": "Pantalon de Costume",
+        "prix": 89.99,
+        "description": "Pantalon de costume élégant, coupe ajustée, idéal pour les occasions formelles.",
+        "category": "Pantalons",
+        "image": "https://m.media-amazon.com/images/I/61dDwXrVSiL._AC_SX569_.jpg"
+    }
+]
